@@ -1,0 +1,35 @@
+Hunter, Zac <zhunter@aquent.com>	 Fri, Apr 25, 2014 at 3:01 PM
+To: Forrest Samuels <forrest@alumni.ncsu.edu>
+Cc: Tavin Cole <tcole@aquent.com>, Brent Northam <bnortham@aquent.com>
+
+Forrest,
+
+Hello.  Attached is the specification for a simple CRUD application we would like you to develop as part of our interview process.  We are primarily a web development shop and so we would prefer if you could develop this application using Java web based technologies as outlined in the attached spec.
+
+We will be evaluating how you work to produce results from a specification as well as how you use the various technologies to develop your application.  
+
+This is a strictly time limited exercise.  We hope you make every effort to achieve a complete solution but if you are not able to reach a feature complete application by the deadline please forward the work you have completed.  
+
+When you have completed your work please provide us with an archive using a standard archive tool, e.g. zip, tar.  Please include a short description of how to build, deploy and run your application (e.g. README.txt file) along with all source code, images, templates, build scripts and any other resources needed to build and run your application on a standard Java VM.  It is a good idea to share this file via Dropbox, Google Drive or some other file sharing system to avoid email filters.
+
+Today is Friday, April 25.  Your code is due back to us by 5:00pm Monday, April 28.
+
+After we have received your application code we will evaluate it and may follow-up with you to find out the reasons for taking a particular course(es) in your solution.
+
+If you have any questions in the meantime please contact me.  I can be reached at this email address or 828 575 0377.
+
+Good luck!
+
+Best,
+Zac
+
+---
+Zachary Hunter
+Vice President of Software
+
+
+A Q U E N T
+Marketing and design staffing solutions for today’s biggest brands
+
+zhunter@aquent.com
+828 575 0377
